@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441673081144",
+    "project_id": "airtop-72a48",
+    "storage_bucket": "airtop-72a48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441673081144:android:0114d4f67dd3f84b6521cd",
+        "android_client_info": {
+          "package_name": "com.example.airtop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441673081144-rjod15kohi710n46s7f152m2u3jjqj92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBZEeOc2S1wuJTYTcn9uZPWEZAt95GQpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441673081144-5n4dk2dj50jo6ohc1robhu80e4c5gnc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
