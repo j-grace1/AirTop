@@ -132,6 +132,8 @@ class MessageLookup extends MessageLookupByLibrary {
         "signUpTextSignUpWithGoogle":
             MessageLookupByLibrary.simpleMessage("s\'inscrire avec google"),
         "signupTextSignUp": MessageLookupByLibrary.simpleMessage("S\'inscrire"),
+        "statusOffline": MessageLookupByLibrary.simpleMessage("Hors Ligne"),
+        "statusOnline": MessageLookupByLibrary.simpleMessage("En ligne"),
         "successPromptTransaction": MessageLookupByLibrary.simpleMessage(
             "Succès. Approuvez la demande de transaction."),
         "termsPageHeader":

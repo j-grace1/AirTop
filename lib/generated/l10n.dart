@@ -230,6 +230,26 @@ class S {
     );
   }
 
+  /// `Online`
+  String get statusOnline {
+    return Intl.message(
+      'Online',
+      name: 'statusOnline',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Offline`
+  String get statusOffline {
+    return Intl.message(
+      'Offline',
+      name: 'statusOffline',
+      desc: '',
+      args: [],
+    );
+  }
+
   /// `Please create an account if you don't have one`
   String get signUpTextPleaseCreateanAccountIfYouDontHaveOne {
     return Intl.message(

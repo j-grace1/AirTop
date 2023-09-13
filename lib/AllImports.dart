@@ -11,6 +11,8 @@ export 'package:airtop/config/const/styles/colors/appGeneralColours/generalAppCo
 export 'package:airtop/config/const/styles/colors/containers/containerColors.dart';
 export 'package:airtop/config/const/styles/colors/buttons/buttonColors.dart';
 export 'package:airtop/App Files/UI/Animations/svgAnimation/svgAnimation.dart';
+export 'package:airtop/App Files/UI/Pages/Transactions/TransactionsPage/TransactionsPage.dart';
+export 'package:airtop/config/const/dimensions/screenDimensions.dart';
 
 export 'package:airtop/generated/assets.dart';
 export 'package:airtop/generated/l10n.dart';

@@ -15,6 +15,8 @@
   "loginTextLoginWithGoogle": " Login with Google",
   "signUpTextSignUpWithGoogle": "SignUp with Google",
   "signUpTextPleaseCreateanAccountIfYouDontHaveOne": "Biko create account if you no get",
+  "statusOnline" : "Online",
+  "statusOffline" : "Offline",
 
   "loginTextPleaseLoginToYourAccount": "Biko login na your account",
   "loginTextEmail": "Email",

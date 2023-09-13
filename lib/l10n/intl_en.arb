@@ -20,6 +20,8 @@
   "loginTextLoginWithGoogle": " Login with Google",
   "signUpTextSignUpWithGoogle": "SignUp with Google",
   "loginTextPleaseLoginToYourAccount": "Please Login to Your Account",
+  "statusOnline" : "Online",
+  "statusOffline" : "Offline",
 
   "signUpTextPleaseCreateanAccountIfYouDontHaveOne": "Please create an account if you don't have one",
 

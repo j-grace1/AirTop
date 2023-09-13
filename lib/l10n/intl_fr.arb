@@ -12,6 +12,8 @@
   "signUpTextSignUpWithGoogle": "s'inscrire avec google",
   "signUpTextPleaseCreateanAccountIfYouDontHaveOne": "Veuillez créer un compte si vous n'en avez pas",
   "loginTextPleaseLoginToYourAccount": "Veuillez vous connecter à votre compte",
+  "statusOnline" : "En ligne",
+  "statusOffline" : "Hors Ligne",
 
   "onboardingPage1Text": "Achetez du crédit téléphonique en quelques clics. Restez connecté facilement, à tout moment, où que vous soyez.",
   "onboardingPage2Text": "Avec un forfait SMS, achetez du crédit d'appel depuis votre mobile et vos portefeuilles Orange Money. Restez connecté même sans connexion internet.",

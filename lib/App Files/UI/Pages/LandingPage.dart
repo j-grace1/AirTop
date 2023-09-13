@@ -14,7 +14,7 @@ class _LandingPageState extends State<LandingPage> {
     return Scaffold(
       appBar: AirTopAppBar(),
       body: Container(
-        child: HomePage(),
+        child: TransactionsPage(),
       ),
       bottomNavigationBar: BottomNavigationBar(
         backgroundColor: GeneralAppColors.blueSpecial,
