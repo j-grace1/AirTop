@@ -1,5 +1,5 @@
-import 'package:airtop/const/dimensions/generalDimensions/borderRadii/borderRadii.dart';
-import 'package:airtop/const/dimensions/generalDimensions/widths/widths.dart';
+import 'package:airtop/config/const/dimensions/generalDimensions/borderRadii/borderRadii.dart';
+import 'package:airtop/config/const/dimensions/generalDimensions/widths/widths.dart';
 
 class ButtonDimensions {
   // Widths

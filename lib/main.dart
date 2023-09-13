@@ -1,8 +1,5 @@
 import 'package:airtop/AllImports.dart';
 
-import 'App Files/UI/Pages/Home/HomePage.dart';
-import 'App Files/UI/Pages/Onboarding/SignUpandLogin/SignUpAndLogin.dart';
-
 void main() {
   runApp(const MyApp());
 }
@@ -54,6 +51,6 @@ class _MyHomePageState extends State<MyHomePage> {
 
   @override
   Widget build(BuildContext context) {
-    return HomePage();
+    return LandingPage();
   }
 }

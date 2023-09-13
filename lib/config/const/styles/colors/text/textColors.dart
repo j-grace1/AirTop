@@ -1,6 +1,6 @@
 import 'dart:ui';
-import 'package:airtop/const/styles/colors/appGeneralColours/generalAppColors.dart';
 import 'package:flutter/material.dart';
+import 'package:airtop/AllImports.dart';
 
 class TextColors {
   // Text Colors

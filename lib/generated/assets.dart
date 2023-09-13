@@ -2,9 +2,38 @@
 class Assets {
   Assets._();
 
+  static const String logosCamtelLogo =
+      'assets/images/svg/Logos/camtelLogo.svg';
+  static const String logosMtnLogoSvg =
+      'assets/images/svg/Logos/MtnLogoSvg.svg';
+  static const String logosMtnNewLogo =
+      'assets/images/svg/Logos/mtn-new-logo.svg';
+  static const String pngArrowAntiClockwiseCorrect =
+      'assets/images/png/ArrowAntiClockwiseCorrect.png';
+  static const String pngArrowClockwiseCorrect =
+      'assets/images/png/ArrowClockwiseCorrect.png';
+  static const String pngCamtelLogoPng = 'assets/images/png/CamtelLogoPng.png';
+  static const String pngCamtelLogopngFnal =
+      'assets/images/png/CamtelLogopngFnal.png';
+  static const String pngCamtelLogopngFnaltransformed =
+      'assets/images/png/CamtelLogopngFnaltransformed.png';
+  static const String pngClickIcon = 'assets/images/png/ClickIcon.png';
   static const String pngLines = 'assets/images/png/Lines.png';
+  static const String pngMoMoSimpleTransformed =
+      'assets/images/png/MoMoSimple-transformed.png';
+  static const String pngMtnLogoPng = 'assets/images/png/MtnLogoPng.png';
+  static const String pngMtnMomoLogoTransformed =
+      'assets/images/png/MtnMomoLogo-transformed.png';
+  static const String pngNextelltransformed =
+      'assets/images/png/Nextelltransformed.png';
   static const String pngOnboardingBackground =
       'assets/images/png/OnboardingBackground.png';
+  static const String pngOrangeMoneyLogoTransformed =
+      'assets/images/png/OrangeMoneyLogo-transformed.png';
+  static const String pngOrangelogoClean =
+      'assets/images/png/orangelogoClean.png';
+  static const String pngOrangelogoCleanTransformed =
+      'assets/images/png/orangelogoClean-transformed.png';
   static const String pngSplashScreen = 'assets/images/png/SplashScreen.png';
   static const String pngTransferAndAirTopLogo =
       'assets/images/png/Transfer_and_airTopLogo.png';
@@ -12,6 +41,9 @@ class Assets {
       'assets/images/png/Transfer_and_airTopLogo-removebg-preview.png';
   static const String pngTransferLogoRemovebgPreview =
       'assets/images/png/transferLogo-removebg-preview.png';
+  static const String pngYoomeeClean = 'assets/images/png/YoomeeClean.png';
+  static const String pngYoomeeCleanTransformed =
+      'assets/images/png/YoomeeClean-transformed.png';
   static const String svgAirTopLogoBetterWhiteBackGround =
       'assets/images/svg/AirTopLogoBetterWhiteBackGround.svg';
   static const String svgAirTopLogoBetterWhiteBackGroundCropped =

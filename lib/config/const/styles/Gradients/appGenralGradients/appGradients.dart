@@ -1,6 +1,6 @@
-import 'package:airtop/const/styles/colors/appGeneralColours/generalAppColors.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:airtop/AllImports.dart';
 
 class AppGradients {
   static const LinearGradient splashScreengradient = LinearGradient(

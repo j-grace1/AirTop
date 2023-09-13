@@ -1,18 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
-import 'package:flutter_svg/flutter_svg.dart';
-
-import '../../../../const/dimensions/generalDimensions/borderRadii/borderRadii.dart';
-import '../../../../const/dimensions/generalDimensions/widths/widths.dart';
-import '../../../../const/styles/colors/containers/containerColors.dart';
-import '../../../../const/styles/fonts/fonts.dart';
-import '../../../../generated/assets.dart';
-import 'package:airtop/generated/l10n.dart';
-
-import '../../../../const/styles/colors/appGeneralColours/generalAppColors.dart';
-import '../../Animations/svgAnimation/svgAnimation.dart';
-import '../../Widgets/buttons/bottons.dart';
-import '../../Widgets/dropDown/LanguageSettingsDropDown/languageSettingDropDown.dart';
+import 'package:airtop/AllImports.dart';
 
 class OnboardingLanguageSettingsPage extends StatefulWidget {
   @override
