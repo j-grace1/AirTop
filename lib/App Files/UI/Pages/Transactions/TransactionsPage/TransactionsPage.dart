@@ -1,8 +1,5 @@
 import 'package:airtop/AllImports.dart';
 
-import '../AirTimePurchaseTab.dart';
-import '../MoneyTransferTab.dart';
-
 class TransactionsPage extends StatefulWidget {
   const TransactionsPage({Key? key}) : super(key: key);
 
@@ -20,7 +17,7 @@ class _TransactionsPageState extends State<TransactionsPage> {
           child: Column(
             children: [
               SizedBox(
-                height: ScreenDimensionsUtil.screenHeight(context) * 0.01,
+                height: ScreenDimensionsUtil.screenHeight(context) * 0.00,
               ),
               OnlineandOfflineButtons(),
               Expanded(child: TransactionDetailTabBar())
@@ -77,8 +74,9 @@ class _OnlineandOfflineButtonsState extends State<OnlineandOfflineButtons> {
               Switch(
                 value: isSwitched,
                 activeColor: GeneralAppColors.blueSpecial,
-                inactiveThumbColor: GeneralAppColors.grey,
-                inactiveTrackColor: GeneralAppColors.grey.withOpacity(0.5),
+                inactiveThumbColor: GeneralAppColors.blueSpecial,
+                inactiveTrackColor:
+                    GeneralAppColors.blueSpecial.withOpacity(0.5),
                 onChanged: toggleSwitch,
                 splashRadius: 10,
               ),
@@ -141,15 +139,18 @@ class TransactionDetailTabBar extends StatelessWidget {
               ],
             ),
             Expanded(
-              child: TabBarView(
-                children: [
-                  Container(
-                    child: AirTimePurchaseTab(),
-                  ),
-                  Container(
-                    child: MoneyTransferTab(),
-                  ),
-                ],
+              child: Container(
+                padding: EdgeInsets.fromLTRB(5, 23, 5, 10),
+                child: TabBarView(
+                  children: [
+                    Container(
+                      child: AirTimePurchaseTab(),
+                    ),
+                    Container(
+                      child: MoneyTransferTab(),
+                    ),
+                  ],
+                ),
               ),
             ),
           ],

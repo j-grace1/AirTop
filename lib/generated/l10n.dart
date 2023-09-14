@@ -440,20 +440,20 @@ class S {
     );
   }
 
-  /// `Airtime`
+  /// `Airtime Purchase`
   String get transactionPageTabHeaderAirtime {
     return Intl.message(
-      'Airtime',
+      'Airtime Purchase',
       name: 'transactionPageTabHeaderAirtime',
       desc: '',
       args: [],
     );
   }
 
-  /// `Transfer`
+  /// `Money Transfer`
   String get transactionPageTabHeaderTransfer {
     return Intl.message(
-      'Transfer',
+      'Money Transfer',
       name: 'transactionPageTabHeaderTransfer',
       desc: '',
       args: [],

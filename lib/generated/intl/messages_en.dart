@@ -146,9 +146,9 @@ class MessageLookup extends MessageLookupByLibrary {
         "transactionPageButtonTextTransfer":
             MessageLookupByLibrary.simpleMessage("Transfer"),
         "transactionPageTabHeaderAirtime":
-            MessageLookupByLibrary.simpleMessage("Airtime"),
+            MessageLookupByLibrary.simpleMessage("Airtime Purchase"),
         "transactionPageTabHeaderTransfer":
-            MessageLookupByLibrary.simpleMessage("Transfer"),
+            MessageLookupByLibrary.simpleMessage("Money Transfer"),
         "transactionPageTabTitleAirtime":
             MessageLookupByLibrary.simpleMessage("Airtime transfer details"),
         "transactionPageTabTitleTransfer":

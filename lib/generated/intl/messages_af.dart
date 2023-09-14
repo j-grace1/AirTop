@@ -55,14 +55,10 @@ class MessageLookup extends MessageLookupByLibrary {
         "helpPageHeader": MessageLookupByLibrary.simpleMessage("Help"),
         "helpPageHelpText": MessageLookupByLibrary.simpleMessage(""),
         "helpPageTitleFAQs": MessageLookupByLibrary.simpleMessage("FAQs"),
-        "homepageTextBuyAirTime":
-            MessageLookupByLibrary.simpleMessage("Buy Airtime"),
         "homepageTextHelp": MessageLookupByLibrary.simpleMessage(
             "Buy SMS bundle. You fit buy airtime anytime, anywhere, both online and offline."),
         "homepageTextHelpLink":
             MessageLookupByLibrary.simpleMessage("You wan know more???"),
-        "homepageTextTransferMoney":
-            MessageLookupByLibrary.simpleMessage("Transfer Money"),
         "loginTextDontHaveAccount": MessageLookupByLibrary.simpleMessage(
             "You no get Account? Register Here"),
         "loginTextEmail": MessageLookupByLibrary.simpleMessage("Email"),

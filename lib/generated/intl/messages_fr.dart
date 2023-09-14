@@ -145,13 +145,13 @@ class MessageLookup extends MessageLookupByLibrary {
         "transactionHistoryPageHeader":
             MessageLookupByLibrary.simpleMessage("Historique des transactions"),
         "transactionPageButtonTextAirtime":
-            MessageLookupByLibrary.simpleMessage("Acheter du crédit"),
+            MessageLookupByLibrary.simpleMessage("Acheter"),
         "transactionPageButtonTextTransfer":
             MessageLookupByLibrary.simpleMessage("Transférer"),
         "transactionPageTabHeaderAirtime":
-            MessageLookupByLibrary.simpleMessage("Crédit"),
+            MessageLookupByLibrary.simpleMessage("Achat de crédit"),
         "transactionPageTabHeaderTransfer":
-            MessageLookupByLibrary.simpleMessage("Transfert"),
+            MessageLookupByLibrary.simpleMessage("Transfert d\'argent"),
         "transactionPageTabTitleAirtime": MessageLookupByLibrary.simpleMessage(
             "Détails du transfert de crédit"),
         "transactionPageTabTitleTransfer": MessageLookupByLibrary.simpleMessage(

@@ -26,8 +26,10 @@
   "loginTextDontHaveAccount": "You no get Account? Register Here",
   "signUpTextDontHaveAccount": "You get Account before? Login Here",
   "emailPlaceHolderText": "ngwaemmanuel@gmail.com",
-  "homepageTextBuyAirTime": "Buy Airtime",
-  "homepageTextTransferMoney": "Transfer Money",
+  "transactionPageTabHeaderAirtime": "Buy Airtime",
+  "transactionPageTabHeaderTransfer": "Send Money",
+
+
   "homepageTextHelp": "Buy SMS bundle. You fit buy airtime anytime, anywhere, both online and offline.",
   "homepageTextHelpLink": "You wan know more???",
   "bottomTabBarTitleHistory": "History",

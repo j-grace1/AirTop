@@ -42,8 +42,9 @@
   "sideMenuTextSettings": "Paramètres",
   "sideMenuTextTerms": "Conditions d'utilisation",
   "sideMenuTextLogout": "Déconnexion",
-  "transactionPageTabHeaderAirtime": "Crédit",
-  "transactionPageTabHeaderTransfer": "Transfert",
+  "transactionPageTabHeaderAirtime": "Achat de crédit",
+  "transactionPageTabHeaderTransfer": "Transfert d'argent",
+
   "transactionPageTabTitleAirtime": "Détails du transfert de crédit",
   "transactionPageTabTitleTransfer": "Détails du transfert d'argent",
   "transactionPageTextSMSNumber": "Numéro de SMS",
@@ -51,7 +52,7 @@
   "transactionPageTextAmount": "Montant",
   "transactionPageTextAmountCurrencyFCFA": "Franc CFA",
   "transactionPageTextPayer": "Numéro du payeur",
-  "transactionPageButtonTextAirtime": "Acheter du crédit",
+  "transactionPageButtonTextAirtime": "Acheter",
   "transactionPageButtonTextTransfer": "Transférer",
   "transactionPageTextSenderNumber": "Numéro de l'expéditeur",
   "transactionPageTextRecieverAccontNumber": "Numéro de compte du destinataire",
@@ -82,5 +83,6 @@
   "recommendationPrompt": "Veuillez vous assurer d'avoir un forfait SMS actif sur le 674063317 ou le 657345099, selon votre choix. Veuillez noter que des frais de SMS peuvent s'appliquer si vous n'avez pas de forfait actif.",
   "successPromptTransaction": "Succès. Approuvez la demande de transaction.",
   "failurePromtTransaction": "Échec. Assurez-vous d'avoir un forfait actif ou achetez-en en ligne.",
-  "logoutPrompt": "Êtes-vous sûr de vouloir vous déconnecter ?"
+  "logoutPrompt": "Êtes-vous sûr de vouloir vous déconnecter ?",
+  "transactionPageTextRecieverAccontNumber": "Numéro de compte du destinataire"
 }
